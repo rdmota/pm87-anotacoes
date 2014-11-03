@@ -1,5 +1,5 @@
 public class TesteGit {
-    public stgatic void main() {
+    public static void main() {
         System.out.prinfln("Teste Git");
     }
 }
